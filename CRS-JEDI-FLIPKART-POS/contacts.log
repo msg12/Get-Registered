@@ -1,0 +1,50 @@
+00:03:36,535 ERROR UserDaoOperation,main:74 - Table 'first2.user' doesn't exist
+01:17:28,067  INFO AdminDaoOperation,main:130 - 1 student approved.
+01:19:32,569  INFO AdminDaoOperation,main:130 - 1 student approved.
+01:21:27,627  INFO AdminDaoOperation,main:211 - 1 user added.
+01:21:27,628  INFO AdminDaoOperation,main:217 - User with userId: 12 added.
+01:21:27,937  INFO AdminDaoOperation,main:176 - 1 professor added.
+01:21:27,937  INFO AdminDaoOperation,main:182 - Professor with professorId: 12 added.
+01:21:56,109  INFO AdminDaoOperation,main:99 - 1 course added
+01:21:56,110  INFO AdminDaoOperation,main:105 - Course with courseId: 12 is added to catalog.
+10:25:39,606  INFO AdminDaoOperation,main:130 - 1 student approved.
+10:26:06,954  INFO AdminDaoOperation,main:99 - 1 course added
+10:26:06,954  INFO AdminDaoOperation,main:105 - Course with courseId: cse1 is added to catalog.
+10:26:49,619  INFO AdminDaoOperation,main:211 - 1 user added.
+10:26:49,619  INFO AdminDaoOperation,main:217 - User with userId: ins1 added.
+10:26:51,870  INFO AdminDaoOperation,main:176 - 1 professor added.
+10:26:51,871  INFO AdminDaoOperation,main:182 - Professor with professorId: ins1 added.
+11:06:49,637  INFO AdminDaoOperation,main:130 - 1 student approved.
+11:39:43,951  INFO AdminDaoOperation,main:211 - 1 user added.
+11:39:44,075  INFO AdminDaoOperation,main:217 - User with userId: pro added.
+11:39:44,184  INFO AdminDaoOperation,main:176 - 1 professor added.
+11:39:44,185  INFO AdminDaoOperation,main:182 - Professor with professorId: pro added.
+11:40:02,953  INFO AdminDaoOperation,main:130 - 0 student approved.
+11:40:02,954 ERROR AdminOperation,main:97 - studentId: nlw not found for approval!
+11:40:46,207  INFO AdminDaoOperation,main:130 - 1 student approved.
+11:44:51,141  INFO AdminDaoOperation,main:99 - 1 course added
+11:44:51,146  INFO AdminDaoOperation,main:105 - Course with courseId: cse2 is added to catalog.
+11:45:10,208 ERROR AdminDaoOperation,main:294 - No value specified for parameter 4
+11:45:10,209 ERROR AdminOperation,main:148 - studentName: 1 not Registered.
+11:45:36,973  INFO AdminDaoOperation,main:243 - 1 entries deleted.
+11:45:37,375  INFO AdminDaoOperation,main:252 - Professor with professorId: ins1 deleted.
+11:49:28,163  INFO AdminDaoOperation,main:99 - 1 course added
+11:49:28,167  INFO AdminDaoOperation,main:105 - Course with courseId: java is added to catalog.
+12:15:12,450  INFO AdminDaoOperation,main:130 - 1 student approved.
+12:30:06,858  INFO AdminDaoOperation,main:130 - 1 student approved.
+12:32:09,658  INFO AdminDaoOperation,main:211 - 1 user added.
+12:32:09,659  INFO AdminDaoOperation,main:217 - User with userId: bro added.
+12:32:09,910  INFO AdminDaoOperation,main:176 - 1 professor added.
+12:32:09,911  INFO AdminDaoOperation,main:182 - Professor with professorId: bro added.
+12:32:22,107  INFO AdminDaoOperation,main:99 - 1 course added
+12:32:22,107  INFO AdminDaoOperation,main:105 - Course with courseId: sub is added to catalog.
+00:10:53,450  INFO AdminDaoOperation,main:99 - 1 course added
+00:10:53,452  INFO AdminDaoOperation,main:105 - Course with courseId: 1234 is added to catalog.
+00:25:02,604  INFO AdminDaoOperation,main:65 - 1 entries deleted.
+00:25:02,605  INFO AdminDaoOperation,main:71 - Course with courseId: 1234 deleted.
+00:25:24,928  INFO AdminDaoOperation,main:211 - 1 user added.
+00:25:24,928  INFO AdminDaoOperation,main:217 - User with userId: qwerty added.
+00:25:24,936  INFO AdminDaoOperation,main:176 - 1 professor added.
+00:25:24,936  INFO AdminDaoOperation,main:182 - Professor with professorId: 12345 added.
+13:18:53,122  INFO AdminDaoOperation,main:129 - 1 student approved.
+13:23:29,437  INFO AdminDaoOperation,main:129 - 1 student approved.
